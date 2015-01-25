@@ -1,7 +1,7 @@
 
 ## Getting and Cleaning Data - Course Project
 
-## Code Book
+### Code Book
 
 ##### January 2015 edition
 
