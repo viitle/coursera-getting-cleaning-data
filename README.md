@@ -1,7 +1,7 @@
 ﻿
 ## Getting and Cleaning Data - Course Project
 
-## README
+### README
 
 ##### January 2015 edition
 
