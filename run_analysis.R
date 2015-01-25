@@ -1,3 +1,9 @@
+##
+## Getting and Cleaning Data - Course Project
+##
+## R script for data analysis
+##
+
 
 library(plyr)
 
